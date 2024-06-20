@@ -68,7 +68,6 @@ function addToCart(product: Product) {
 .card-popup__inner {
   padding-right: 65px !important;
   width: 100vw !important;
-  height: 90vh !important;
   max-width: 100vw !important;
   margin: 0 !important;
   background: white;
