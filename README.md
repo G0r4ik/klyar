@@ -6,7 +6,7 @@
 2. Скачать node js 20.\* версию [nodejs](https://nodejs.org/en/download/package-manager)
 3. Открыть папку проекта либо через VS code, либо через консоль
 4. Ввести **npm run download**, чтобы скачать все зависимости
-5. Ввести **npm run run-start**
+5. Ввести **npm run start**
 6. В консоли будет написано где работает сайт, для клиента это обычно [link](http://localhost:5173/)
 
 ## Возможности
